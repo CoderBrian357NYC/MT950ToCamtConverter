@@ -1,0 +1,15 @@
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/bin/Debug/net8.0/MT950ToCamtConverter
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/bin/Debug/net8.0/MT950ToCamtConverter.deps.json
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/bin/Debug/net8.0/MT950ToCamtConverter.runtimeconfig.json
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/bin/Debug/net8.0/MT950ToCamtConverter.dll
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/bin/Debug/net8.0/MT950ToCamtConverter.pdb
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.AssemblyInfoInputs.cache
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.AssemblyInfo.cs
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.csproj.CoreCompileInputs.cache
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.sourcelink.json
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.dll
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/refint/MT950ToCamtConverter.dll
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.pdb
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/MT950ToCamtConverter.genruntimeconfig.cache
+/Users/briansmacmini/Projects/DotNetPortfolio/MT950ToCamtConverter/obj/Debug/net8.0/ref/MT950ToCamtConverter.dll

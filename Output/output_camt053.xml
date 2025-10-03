@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:iso:std:iso:20022:tech:xsd:camt.053.001.13">
+  <BkToCstmrStmt>
+    <GrpHdr>
+      <MsgId>STARTREF12345</MsgId>
+      <CreDtTm>2025-07-29T09:48:03.233815+01:00</CreDtTm>
+    </GrpHdr>
+    <Stmt>
+      <Acct>
+        <Id>
+          <IBAN>1234567890123456</IBAN>
+        </Id>
+        <Tp />
+      </Acct>
+      <Bal>
+        <Amt Ccy="EUR">12345.67</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Dt>
+          <Dt>2020-07-01</Dt>
+        </Dt>
+      </Bal>
+      <Bal>
+        <Amt Ccy="EUR">12422.22</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <Dt>
+          <Dt>2020-07-01</Dt>
+        </Dt>
+      </Bal>
+      <Ntry>
+        <Amt Ccy="EUR">123.45</Amt>
+        <CdtDbtInd>DBIT</CdtDbtInd>
+        <BookgDt>
+          <Dt>2020-07-01</Dt>
+        </BookgDt>
+        <ValDt>
+          <Dt>2020-07-01</Dt>
+        </ValDt>
+        <AddtlNtryInf>Payment for invoice 12345</AddtlNtryInf>
+      </Ntry>
+      <Ntry>
+        <Amt Ccy="EUR">200.00</Amt>
+        <CdtDbtInd>CRDT</CdtDbtInd>
+        <BookgDt>
+          <Dt>2020-07-01</Dt>
+        </BookgDt>
+        <ValDt>
+          <Dt>2020-07-02</Dt>
+        </ValDt>
+        <AddtlNtryInf>Salary payment</AddtlNtryInf>
+      </Ntry>
+    </Stmt>
+  </BkToCstmrStmt>
+</Document>
